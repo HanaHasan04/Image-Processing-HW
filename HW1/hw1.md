@@ -1,4 +1,4 @@
-# Image processing course – homework #1
+# Image processing – homework #1
 In this homework we wrote python functions of histogram operations.
 
 <img width="345" alt="צילום מסך 2023-03-22 143524" src="https://user-images.githubusercontent.com/100043559/226906457-22a77246-cb72-45cb-9759-28a24f0fda03.png">
