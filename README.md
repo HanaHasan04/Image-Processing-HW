@@ -18,7 +18,22 @@
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/100927079/227283047-095d3d9b-8332-446e-bb6c-0aa8302f4475.png">  
 
 ## Spatial Operations  
-### Adding Salt and Pepper Noise to images and Denoising  
-### Adding Gaussian Noise ($\mu =0$) to images and Denoising  
+### Salt and Pepper (S&P) Noise  
+
+### Gaussian Noise  
+  
+### Bilateral Filtering  
+  
+  
+## Image Enhancement / Cleaning / Restoring   
+
+
+## Edge Detectors and Pattern Recognition  
+### Sobel Edge Detector  
+
+### Canny Edge Detector  
+
+### Hough Transformation  
+
 
 
