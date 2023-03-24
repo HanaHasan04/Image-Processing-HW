@@ -1,4 +1,4 @@
-from hw1_123456789 import *
+from hw1_functions import *
 
 if __name__ == '__main__':
     # read the images you want to try on - in this example I'm using the four squares

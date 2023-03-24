@@ -1,4 +1,4 @@
-from hw2_123456789 import *
+from hw2_functions import *
 
 
 if __name__ == '__main__':
