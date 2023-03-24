@@ -1,5 +1,4 @@
-# Image-Processing
-*Image Processing Homework*
+# Image Processing Homework
 *Hallel Weinberg & Hana Hasan*
 
 ## HW1: Histograms  
